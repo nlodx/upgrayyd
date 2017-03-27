@@ -1,4 +1,5 @@
 #!/bin/bash
+# script to update updating repositorys and updating packages.
 echo
 echo
 echo "Upgrayyd 0.1 by nlod"
